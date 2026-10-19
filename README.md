@@ -16,4 +16,3 @@
 
 ## Difficultés rencontrées
 - `kubectl exec -it whoami-pod -- sh` échoue : l'image whoami ne contient pas de shell. Hostname vérifié via port-forward + curl.
-- (ajoutez les vôtres)
